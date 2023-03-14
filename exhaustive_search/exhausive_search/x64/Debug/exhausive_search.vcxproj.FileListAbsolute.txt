@@ -1,0 +1,2 @@
+C:\Users\sasha\c++\Lab_1\exhaustive_search\с++\exhausive_search\x64\Debug\exhausive_search.exe
+C:\Users\sasha\c++\Lab_1\exhaustive_search\exhausive_search\x64\Debug\exhausive_search.exe

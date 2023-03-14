@@ -1,0 +1,1 @@
+C:\Users\sasha\c++\Lab_1\strategies\even_arr\strategy_A\x64\Debug\strategy_A.exe
